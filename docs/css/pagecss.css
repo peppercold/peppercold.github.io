@@ -1,0 +1,7 @@
+:root {
+    --body-font: 'Helvetica', serif;
+}
+
+body {
+    font-family: var(--body-font);
+}
