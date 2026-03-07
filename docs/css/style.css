@@ -7,6 +7,6 @@ body {
 }
 
 main {
-    margin-inline: 25%;
+    margin-inline: auto;
     max-width: 65ch;
 }
